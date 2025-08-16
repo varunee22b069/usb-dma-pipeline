@@ -1,0 +1,19 @@
+[
+   {
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+temperature_tmp006.c -> temperature_tmp006.c",
+         "+temperature_tmp006_ccs.cmd -> temperature_tmp006_ccs.cmd",
+         "+../../../../examples/boards/ek-tm4c123gxl-boostxl-senshub/drivers/rgb.c -> drivers/rgb.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na",
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "packages" : []
+   }
+]

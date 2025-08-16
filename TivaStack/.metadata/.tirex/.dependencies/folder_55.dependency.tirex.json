@@ -1,0 +1,23 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+usb_dev_serial.c -> usb_dev_serial.c",
+         "+usb_dev_serial_ccs.cmd -> usb_dev_serial_ccs.cmd",
+         "+usb_serial_structs.c -> usb_serial_structs.c",
+         "+usb_serial_structs.h -> usb_serial_structs.h",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      }
+   }
+]

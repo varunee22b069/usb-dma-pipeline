@@ -1,0 +1,19 @@
+[
+   {
+      "files" : [
+         "+pwm_invert.c -> pwm_invert.c",
+         "+pwm_invert_ccs.cmd -> pwm_invert_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c1294xl/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na",
+      "packages" : [],
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      },
+      "default" : "na"
+   }
+]

@@ -1,0 +1,19 @@
+[
+   {
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "default" : "na",
+      "packages" : [],
+      "name" : "na",
+      "files" : [
+         "+aes128_ecb_decrypt.c -> aes128_ecb_decrypt.c",
+         "+aes128_ecb_decrypt_ccs.cmd -> aes128_ecb_decrypt_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c129exl/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ]
+   }
+]

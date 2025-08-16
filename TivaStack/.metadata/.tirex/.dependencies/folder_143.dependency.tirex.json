@@ -1,0 +1,21 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+shamd5_hmac_example.c -> shamd5_hmac_example.c",
+         "+shamd5_hmac_example_ccs.cmd -> shamd5_hmac_example_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c129exl/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/cmdline.c -> utils/cmdline.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "packages" : [],
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      },
+      "default" : "na"
+   }
+]

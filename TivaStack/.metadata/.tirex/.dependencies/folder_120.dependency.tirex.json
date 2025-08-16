@@ -1,0 +1,22 @@
+[
+   {
+      "default" : "na",
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      },
+      "packages" : [],
+      "files" : [
+         "+boot_demo_usb.c -> boot_demo_usb.c",
+         "+boot_demo_usb_ccs.cmd -> boot_demo_usb_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+usb_hiddfu_structs.c -> usb_hiddfu_structs.c",
+         "+usb_hiddfu_structs.h -> usb_hiddfu_structs.h",
+         "+../../../../examples/boards/ek-tm4c129exl/drivers/buttons.c -> drivers/buttons.c",
+         "+../../../../examples/boards/ek-tm4c129exl/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na"
+   }
+]

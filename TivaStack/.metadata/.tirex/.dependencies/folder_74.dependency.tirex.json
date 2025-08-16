@@ -1,0 +1,19 @@
+[
+   {
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "files" : [
+         "+light_isl29023.c -> light_isl29023.c",
+         "+light_isl29023_ccs.cmd -> light_isl29023_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c123gxl-boostxl-senshub/drivers/rgb.c -> drivers/rgb.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na"
+   }
+]

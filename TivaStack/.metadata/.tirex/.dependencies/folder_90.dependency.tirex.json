@@ -1,0 +1,18 @@
+[
+   {
+      "files" : [
+         "+mpu_fault.c -> mpu_fault.c",
+         "+mpu_fault_ccs.cmd -> mpu_fault_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na",
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      }
+   }
+]

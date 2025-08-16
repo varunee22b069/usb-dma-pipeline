@@ -1,0 +1,22 @@
+[
+   {
+      "default" : "na",
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      },
+      "packages" : [],
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+usb_dev_keyboard.c -> usb_dev_keyboard.c",
+         "+usb_dev_keyboard_ccs.cmd -> usb_dev_keyboard_ccs.cmd",
+         "+usb_keyb_structs.c -> usb_keyb_structs.c",
+         "+usb_keyb_structs.h -> usb_keyb_structs.h",
+         "+../../../../examples/boards/ek-tm4c1294xl/drivers/buttons.c -> drivers/buttons.c",
+         "+../../../../examples/boards/ek-tm4c1294xl/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na"
+   }
+]

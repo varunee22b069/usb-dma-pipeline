@@ -1,0 +1,21 @@
+[
+   {
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+usb_dev_gamepad.c -> usb_dev_gamepad.c",
+         "+usb_dev_gamepad_ccs.cmd -> usb_dev_gamepad_ccs.cmd",
+         "+usb_gamepad_structs.c -> usb_gamepad_structs.c",
+         "+usb_gamepad_structs.h -> usb_gamepad_structs.h",
+         "+../../../../examples/boards/ek-tm4c123gxl/drivers/buttons.c -> drivers/buttons.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na",
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "packages" : []
+   }
+]

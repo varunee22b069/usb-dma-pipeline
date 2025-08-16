@@ -1,0 +1,31 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+bl_config.h -> bl_config.h",
+         "+../../../../boot_loader/bl_autobaud.c -> boot_loader/bl_autobaud.c",
+         "+../../../../boot_loader/bl_can.c -> boot_loader/bl_can.c",
+         "+../../../../boot_loader/bl_check.c -> boot_loader/bl_check.c",
+         "+../../../../boot_loader/bl_crc32.c -> boot_loader/bl_crc32.c",
+         "+../../../../boot_loader/bl_decrypt.c -> boot_loader/bl_decrypt.c",
+         "+../../../../boot_loader/bl_emac.c -> boot_loader/bl_emac.c",
+         "+../../../../boot_loader/bl_flash.c -> boot_loader/bl_flash.c",
+         "+../../../../boot_loader/bl_i2c.c -> boot_loader/bl_i2c.c",
+         "+../../../../boot_loader/bl_link_ccs.cmd -> boot_loader/bl_link_ccs.cmd",
+         "+../../../../boot_loader/bl_main.c -> boot_loader/bl_main.c",
+         "+../../../../boot_loader/bl_packet.c -> boot_loader/bl_packet.c",
+         "+../../../../boot_loader/bl_ssi.c -> boot_loader/bl_ssi.c",
+         "+../../../../boot_loader/bl_startup_ccs.s -> boot_loader/bl_startup_ccs.s",
+         "+../../../../boot_loader/bl_uart.c -> boot_loader/bl_uart.c",
+         "+../../../../boot_loader/bl_usb.c -> boot_loader/bl_usb.c",
+         "+../../../../boot_loader/bl_usbfuncs.c -> boot_loader/bl_usbfuncs.c"
+      ],
+      "default" : "na",
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      },
+      "packages" : []
+   }
+]

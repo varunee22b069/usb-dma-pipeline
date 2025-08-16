@@ -1,0 +1,19 @@
+[
+   {
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "files" : [
+         "+sleep_modes.c -> sleep_modes.c",
+         "+sleep_modes_ccs.cmd -> sleep_modes_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c1294xl/drivers/buttons.c -> drivers/buttons.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na"
+   }
+]

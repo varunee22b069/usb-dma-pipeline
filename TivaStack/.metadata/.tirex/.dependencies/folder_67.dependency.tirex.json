@@ -1,0 +1,22 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+grlib_demo.c -> grlib_demo.c",
+         "+grlib_demo_ccs.cmd -> grlib_demo_ccs.cmd",
+         "+images.c -> images.c",
+         "+images.h -> images.h",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c123gxl-boostxl-kentec-s1/drivers/Kentec320x240x16_ssd2119_spi.c -> drivers/Kentec320x240x16_ssd2119_spi.c",
+         "+../../../../examples/boards/ek-tm4c123gxl-boostxl-kentec-s1/drivers/touch.c -> drivers/touch.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "packages" : [],
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "default" : "na"
+   }
+]

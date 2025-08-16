@@ -1,0 +1,30 @@
+[
+   {
+      "packages" : [],
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "default" : "na",
+      "name" : "na",
+      "files" : [
+         "+images.c -> images.c",
+         "+images.h -> images.h",
+         "+lang_demo.c -> lang_demo.c",
+         "+lang_demo_ccs.cmd -> lang_demo_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/touch.c -> drivers/touch.c",
+         "+../../../../third_party/fonts/lang_demo/fontcustom14pt.c -> third_party/fonts/lang_demo/fontcustom14pt.c",
+         "+../../../../third_party/fonts/lang_demo/fontcustom20pt.c -> third_party/fonts/lang_demo/fontcustom20pt.c",
+         "+../../../../third_party/fonts/lang_demo/fontcustomr14pt.c -> third_party/fonts/lang_demo/fontcustomr14pt.c",
+         "+../../../../third_party/fonts/lang_demo/fontcustomr20pt.c -> third_party/fonts/lang_demo/fontcustomr20pt.c",
+         "+../../../../third_party/fonts/lang_demo/langremap.c -> third_party/fonts/lang_demo/langremap.c",
+         "+../../../../third_party/fonts/lang_demo/language.c -> third_party/fonts/lang_demo/language.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ]
+   }
+]

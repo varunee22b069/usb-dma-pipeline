@@ -1,0 +1,21 @@
+[
+   {
+      "packages" : [],
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "default" : "na",
+      "files" : [
+         "+boot_demo_emac_rom.c -> boot_demo_emac_rom.c",
+         "+boot_demo_emac_rom_ccs.cmd -> boot_demo_emac_rom_ccs.cmd",
+         "+lwipopts.h -> lwipopts.h",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../utils/lwiplib.c -> utils/lwiplib.c",
+         "+../../../../utils/swupdate.c -> utils/swupdate.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "name" : "na"
+   }
+]

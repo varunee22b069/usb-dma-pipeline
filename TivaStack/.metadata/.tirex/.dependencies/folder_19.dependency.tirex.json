@@ -1,0 +1,24 @@
+[
+   {
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "default" : "na",
+      "packages" : [],
+      "name" : "na",
+      "files" : [
+         "+boot_demo_emac_flash.c -> boot_demo_emac_flash.c",
+         "+boot_demo_emac_flash_ccs.cmd -> boot_demo_emac_flash_ccs.cmd",
+         "+lwipopts.h -> lwipopts.h",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/lwiplib.c -> utils/lwiplib.c",
+         "+../../../../utils/swupdate.c -> utils/swupdate.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ]
+   }
+]

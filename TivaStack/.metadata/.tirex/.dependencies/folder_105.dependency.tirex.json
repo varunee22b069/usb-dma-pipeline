@@ -1,0 +1,21 @@
+[
+   {
+      "files" : [
+         "+aes_example.c -> aes_example.c",
+         "+aes_example_ccs.cmd -> aes_example_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c129exl/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/cmdline.c -> utils/cmdline.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "name" : "na",
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      },
+      "default" : "na",
+      "packages" : []
+   }
+]

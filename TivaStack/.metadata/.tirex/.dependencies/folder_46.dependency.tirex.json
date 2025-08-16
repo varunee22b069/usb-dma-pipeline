@@ -1,0 +1,21 @@
+[
+   {
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "packages" : [],
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+tdes_cbc_encrypt.c -> tdes_cbc_encrypt.c",
+         "+tdes_cbc_encrypt_ccs.cmd -> tdes_cbc_encrypt_ccs.cmd",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na"
+   }
+]

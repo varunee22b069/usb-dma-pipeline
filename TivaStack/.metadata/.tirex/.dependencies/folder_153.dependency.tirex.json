@@ -1,0 +1,20 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+udma_scatter_gather.c -> udma_scatter_gather.c",
+         "+udma_scatter_gather_ccs.cmd -> udma_scatter_gather_ccs.cmd",
+         "+../../../../utils/cpu_usage.c -> utils/cpu_usage.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "default" : "na",
+      "packages" : []
+   }
+]

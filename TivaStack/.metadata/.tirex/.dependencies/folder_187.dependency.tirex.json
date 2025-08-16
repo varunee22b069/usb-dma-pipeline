@@ -1,0 +1,22 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+enet_tcpecho_server.c -> enet_tcpecho_server.c",
+         "+enet_tcpecho_server_ccs.cmd -> enet_tcpecho_server_ccs.cmd",
+         "+lwipopts.h -> lwipopts.h",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c1294xl/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/lwiplib.c -> utils/lwiplib.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      }
+   }
+]

@@ -1,0 +1,20 @@
+[
+   {
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "default" : "na",
+      "packages" : [],
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+temperature_tmp006.c -> temperature_tmp006.c",
+         "+temperature_tmp006_ccs.cmd -> temperature_tmp006_ccs.cmd",
+         "+../../../../examples/boards/ek-tm4c1294xl-boostxl-senshub/drivers/buttons.c -> drivers/buttons.c",
+         "+../../../../examples/boards/ek-tm4c1294xl-boostxl-senshub/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na"
+   }
+]

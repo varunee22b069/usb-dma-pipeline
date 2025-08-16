@@ -1,0 +1,18 @@
+[
+   {
+      "default" : "na",
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      },
+      "packages" : [],
+      "name" : "na",
+      "files" : [
+         "+interrupts.c -> interrupts.c",
+         "+interrupts_ccs.cmd -> interrupts_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ]
+   }
+]

@@ -1,0 +1,27 @@
+[
+   {
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "name" : "na",
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+usb_dev_mouse.c -> usb_dev_mouse.c",
+         "+usb_host_mouse.c -> usb_host_mouse.c",
+         "+usb_mouse_structs.c -> usb_mouse_structs.c",
+         "+usb_mouse_structs.h -> usb_mouse_structs.h",
+         "+usb_otg_mouse.c -> usb_otg_mouse.c",
+         "+usb_otg_mouse.h -> usb_otg_mouse.h",
+         "+usb_otg_mouse_ccs.cmd -> usb_otg_mouse_ccs.cmd",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/touch.c -> drivers/touch.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ]
+   }
+]

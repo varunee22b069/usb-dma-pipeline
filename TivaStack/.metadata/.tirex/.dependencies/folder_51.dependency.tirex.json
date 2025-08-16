@@ -1,0 +1,27 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+ui.c -> ui.c",
+         "+ui.h -> ui.h",
+         "+usb_dev_chid.c -> usb_dev_chid.c",
+         "+usb_dev_chid_ccs.cmd -> usb_dev_chid_ccs.cmd",
+         "+usb_keyboard.c -> usb_keyboard.c",
+         "+usb_mouse.c -> usb_mouse.c",
+         "+usb_structs.c -> usb_structs.c",
+         "+usb_structs.h -> usb_structs.h",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/touch.c -> drivers/touch.c"
+      ],
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "packages" : []
+   }
+]

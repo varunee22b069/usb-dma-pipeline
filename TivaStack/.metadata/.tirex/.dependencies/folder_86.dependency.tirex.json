@@ -1,0 +1,19 @@
+[
+   {
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      },
+      "files" : [
+         "+gpio_jtag.c -> gpio_jtag.c",
+         "+gpio_jtag_ccs.cmd -> gpio_jtag_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c123gxl/drivers/buttons.c -> drivers/buttons.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na"
+   }
+]

@@ -1,0 +1,20 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+udma_demo.c -> udma_demo.c",
+         "+udma_demo_ccs.cmd -> udma_demo_ccs.cmd",
+         "+../../../../utils/cpu_usage.c -> utils/cpu_usage.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "default" : "na",
+      "packages" : []
+   }
+]

@@ -1,0 +1,18 @@
+[
+   {
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "default" : "na",
+      "packages" : [],
+      "name" : "na",
+      "files" : [
+         "+hello.c -> hello.c",
+         "+hello_ccs.cmd -> hello_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ]
+   }
+]

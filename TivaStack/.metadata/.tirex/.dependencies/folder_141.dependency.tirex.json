@@ -1,0 +1,19 @@
+[
+   {
+      "files" : [
+         "+sha1_hash.c -> sha1_hash.c",
+         "+sha1_hash_ccs.cmd -> sha1_hash_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c129exl/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na",
+      "default" : "na",
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      },
+      "packages" : []
+   }
+]

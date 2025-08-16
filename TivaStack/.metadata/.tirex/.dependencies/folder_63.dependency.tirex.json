@@ -1,0 +1,20 @@
+[
+   {
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "default" : "na",
+      "packages" : [],
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+usb_stick_demo.c -> usb_stick_demo.c",
+         "+usb_stick_demo_ccs.cmd -> usb_stick_demo_ccs.cmd",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c"
+      ],
+      "name" : "na"
+   }
+]

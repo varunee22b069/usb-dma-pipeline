@@ -1,0 +1,19 @@
+[
+   {
+      "files" : [
+         "+hello.c -> hello.c",
+         "+hello_ccs.cmd -> hello_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c1294xl/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na",
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "packages" : []
+   }
+]

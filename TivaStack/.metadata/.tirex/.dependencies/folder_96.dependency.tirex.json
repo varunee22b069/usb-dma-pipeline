@@ -1,0 +1,18 @@
+[
+   {
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+timers.c -> timers.c",
+         "+timers_ccs.cmd -> timers_ccs.cmd",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na"
+   }
+]

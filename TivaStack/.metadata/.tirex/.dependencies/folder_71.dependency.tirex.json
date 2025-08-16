@@ -1,0 +1,19 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+compdcm_mpu9150.c -> compdcm_mpu9150.c",
+         "+compdcm_mpu9150_ccs.cmd -> compdcm_mpu9150_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c123gxl-boostxl-senshub/drivers/rgb.c -> drivers/rgb.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "packages" : [],
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "default" : "na"
+   }
+]

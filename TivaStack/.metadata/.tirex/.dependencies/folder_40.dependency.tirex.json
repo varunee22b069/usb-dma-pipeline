@@ -1,0 +1,27 @@
+[
+   {
+      "files" : [
+         "+sd_card.c -> sd_card.c",
+         "+sd_card_ccs.cmd -> sd_card_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/touch.c -> drivers/touch.c",
+         "+../../../../third_party/fatfs/port/mmc-dk-tm4c129x.c -> third_party/fatfs/port/mmc-dk-tm4c129x.c",
+         "+../../../../third_party/fatfs/src/ff.c -> third_party/fatfs/src/ff.c",
+         "+../../../../third_party/fatfs/src/option/cc932.c -> third_party/fatfs/src/option/cc932.c",
+         "+../../../../utils/cmdline.c -> utils/cmdline.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "name" : "na",
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      }
+   }
+]

@@ -1,0 +1,24 @@
+[
+   {
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      },
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+usb_dev_gamepad.c -> usb_dev_gamepad.c",
+         "+usb_dev_gamepad_ccs.cmd -> usb_dev_gamepad_ccs.cmd",
+         "+usb_gamepad_structs.c -> usb_gamepad_structs.c",
+         "+usb_gamepad_structs.h -> usb_gamepad_structs.h",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/buttons.c -> drivers/buttons.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/touch.c -> drivers/touch.c"
+      ],
+      "name" : "na"
+   }
+]

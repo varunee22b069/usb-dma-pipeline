@@ -1,0 +1,25 @@
+[
+   {
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      },
+      "name" : "na",
+      "files" : [
+         "+driver_config.h -> driver_config.h",
+         "+grlib_driver_test.c -> grlib_driver_test.c",
+         "+grlib_driver_test_ccs.cmd -> grlib_driver_test_ccs.cmd",
+         "+images.c -> images.c",
+         "+images.h -> images.h",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/cmdline.c -> utils/cmdline.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ]
+   }
+]

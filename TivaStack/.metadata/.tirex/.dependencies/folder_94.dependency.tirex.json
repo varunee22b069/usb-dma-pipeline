@@ -1,0 +1,18 @@
+[
+   {
+      "files" : [
+         "+pwm_invert.c -> pwm_invert.c",
+         "+pwm_invert_ccs.cmd -> pwm_invert_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na",
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      },
+      "default" : "na",
+      "packages" : []
+   }
+]

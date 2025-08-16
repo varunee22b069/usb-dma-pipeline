@@ -1,0 +1,19 @@
+[
+   {
+      "files" : [
+         "+pwm_dead_band.c -> pwm_dead_band.c",
+         "+pwm_dead_band_ccs.cmd -> pwm_dead_band_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c129exl/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na",
+      "default" : "na",
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      },
+      "packages" : []
+   }
+]

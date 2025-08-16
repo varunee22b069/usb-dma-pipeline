@@ -1,0 +1,22 @@
+[
+   {
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "default" : "na",
+      "packages" : [],
+      "name" : "na",
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+temperature_tmp006.c -> temperature_tmp006.c",
+         "+temperature_tmp006_ccs.cmd -> temperature_tmp006_ccs.cmd",
+         "+../../../../examples/boards/dk-tm4c129x-boostxl-senshub/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x-boostxl-senshub/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x-boostxl-senshub/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ]
+   }
+]

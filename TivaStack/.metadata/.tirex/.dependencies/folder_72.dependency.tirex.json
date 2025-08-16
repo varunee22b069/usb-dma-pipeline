@@ -1,0 +1,19 @@
+[
+   {
+      "files" : [
+         "+humidity_sht21.c -> humidity_sht21.c",
+         "+humidity_sht21_ccs.cmd -> humidity_sht21_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c123gxl-boostxl-senshub/drivers/rgb.c -> drivers/rgb.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na",
+      "packages" : [],
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      },
+      "default" : "na"
+   }
+]

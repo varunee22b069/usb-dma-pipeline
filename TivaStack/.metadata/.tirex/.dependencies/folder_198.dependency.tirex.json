@@ -1,0 +1,19 @@
+[
+   {
+      "packages" : [],
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      },
+      "default" : "na",
+      "files" : [
+         "+pwm_interrupt.c -> pwm_interrupt.c",
+         "+pwm_interrupt_ccs.cmd -> pwm_interrupt_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c1294xl/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na"
+   }
+]

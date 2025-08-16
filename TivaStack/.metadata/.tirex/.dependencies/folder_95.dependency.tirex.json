@@ -1,0 +1,25 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+qs-rgb.c -> qs-rgb.c",
+         "+qs-rgb.h -> qs-rgb.h",
+         "+qs-rgb_ccs.cmd -> qs-rgb_ccs.cmd",
+         "+rgb_commands.c -> rgb_commands.c",
+         "+rgb_commands.h -> rgb_commands.h",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c123gxl/drivers/buttons.c -> drivers/buttons.c",
+         "+../../../../examples/boards/ek-tm4c123gxl/drivers/rgb.c -> drivers/rgb.c",
+         "+../../../../utils/cmdline.c -> utils/cmdline.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "packages" : []
+   }
+]

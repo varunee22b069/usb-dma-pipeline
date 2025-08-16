@@ -1,0 +1,19 @@
+[
+   {
+      "packages" : [],
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      },
+      "default" : "na",
+      "name" : "na",
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+usb_host_keyboard.c -> usb_host_keyboard.c",
+         "+usb_host_keyboard_ccs.cmd -> usb_host_keyboard_ccs.cmd",
+         "+../../../../examples/boards/ek-tm4c129exl/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ]
+   }
+]

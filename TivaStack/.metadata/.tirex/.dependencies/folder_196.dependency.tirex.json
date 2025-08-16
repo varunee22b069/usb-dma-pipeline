@@ -1,0 +1,17 @@
+[
+   {
+      "files" : [
+         "+project0.c -> project0.c",
+         "+project0_ccs.cmd -> project0_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c"
+      ],
+      "name" : "na",
+      "packages" : [],
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "default" : "na"
+   }
+]

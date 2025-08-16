@@ -1,0 +1,18 @@
+[
+   {
+      "files" : [
+         "+bitband.c -> bitband.c",
+         "+bitband_ccs.cmd -> bitband_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na",
+      "packages" : [],
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      },
+      "default" : "na"
+   }
+]

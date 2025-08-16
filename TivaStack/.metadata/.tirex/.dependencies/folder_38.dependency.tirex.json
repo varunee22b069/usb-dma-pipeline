@@ -1,0 +1,34 @@
+[
+   {
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      },
+      "name" : "na",
+      "files" : [
+         "+debug.h -> debug.h",
+         "+eth_client.c -> eth_client.c",
+         "+eth_client.h -> eth_client.h",
+         "+images.c -> images.c",
+         "+images.h -> images.h",
+         "+json.c -> json.c",
+         "+json.h -> json.h",
+         "+lwipopts.h -> lwipopts.h",
+         "+qs_weather.c -> qs_weather.c",
+         "+qs_weather_ccs.cmd -> qs_weather_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/touch.c -> drivers/touch.c",
+         "+../../../../utils/flash_pb.c -> utils/flash_pb.c",
+         "+../../../../utils/locator.c -> utils/locator.c",
+         "+../../../../utils/lwiplib.c -> utils/lwiplib.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ]
+   }
+]

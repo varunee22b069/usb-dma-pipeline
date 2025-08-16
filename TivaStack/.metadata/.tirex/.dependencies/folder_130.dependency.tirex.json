@@ -1,0 +1,35 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+commands.c -> commands.c",
+         "+commands.h -> commands.h",
+         "+debug.h -> debug.h",
+         "+enet_weather.c -> enet_weather.c",
+         "+enet_weather.h -> enet_weather.h",
+         "+enet_weather_ccs.cmd -> enet_weather_ccs.cmd",
+         "+eth_client.c -> eth_client.c",
+         "+eth_client.h -> eth_client.h",
+         "+images.c -> images.c",
+         "+images.h -> images.h",
+         "+json.c -> json.c",
+         "+json.h -> json.h",
+         "+lwipopts.h -> lwipopts.h",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c129exl/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/cmdline.c -> utils/cmdline.c",
+         "+../../../../utils/flash_pb.c -> utils/flash_pb.c",
+         "+../../../../utils/locator.c -> utils/locator.c",
+         "+../../../../utils/lwiplib.c -> utils/lwiplib.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "default" : "na",
+      "packages" : []
+   }
+]

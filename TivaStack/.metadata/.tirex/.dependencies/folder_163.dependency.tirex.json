@@ -1,0 +1,19 @@
+[
+   {
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+watchdog.c -> watchdog.c",
+         "+watchdog_ccs.cmd -> watchdog_ccs.cmd",
+         "+../../../../examples/boards/ek-tm4c129exl/drivers/buttons.c -> drivers/buttons.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na",
+      "packages" : [],
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      },
+      "default" : "na"
+   }
+]

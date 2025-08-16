@@ -1,0 +1,17 @@
+[
+   {
+      "default" : "na",
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      },
+      "packages" : [],
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+uart_echo.c -> uart_echo.c",
+         "+uart_echo_ccs.cmd -> uart_echo_ccs.cmd"
+      ],
+      "name" : "na"
+   }
+]

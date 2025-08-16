@@ -1,0 +1,27 @@
+[
+   {
+      "packages" : [],
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      },
+      "default" : "na",
+      "name" : "na",
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+usb_host_hub.c -> usb_host_hub.c",
+         "+usb_host_hub.h -> usb_host_hub.h",
+         "+usb_host_hub_ccs.cmd -> usb_host_hub_ccs.cmd",
+         "+usb_host_keyboard.c -> usb_host_keyboard.c",
+         "+usb_host_msc.c -> usb_host_msc.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../third_party/fatfs/port/fat_usbmsc.c -> third_party/fatfs/port/fat_usbmsc.c",
+         "+../../../../third_party/fatfs/src/ff.c -> third_party/fatfs/src/ff.c",
+         "+../../../../utils/cmdline.c -> utils/cmdline.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ]
+   }
+]

@@ -1,0 +1,47 @@
+[
+   {
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      },
+      "default" : "na",
+      "packages" : [],
+      "name" : "na",
+      "files" : [
+         "+cgifuncs.c -> cgifuncs.c",
+         "+cgifuncs.h -> cgifuncs.h",
+         "+enet_io.c -> enet_io.c",
+         "+enet_io_ccs.cmd -> enet_io_ccs.cmd",
+         "+fs/404.htm -> fs/404.htm",
+         "+fs/about.htm -> fs/about.htm",
+         "+fs/block.htm -> fs/block.htm",
+         "+fs/block.jpg -> fs/block.jpg",
+         "+fs/dk-tm4c129x.jpg -> fs/dk-tm4c129x.jpg",
+         "+fs/favicon.ico -> fs/favicon.ico",
+         "+fs/index.htm -> fs/index.htm",
+         "+fs/io_cgi.ssi -> fs/io_cgi.ssi",
+         "+fs/io_http.htm -> fs/io_http.htm",
+         "+fs/javascript.js -> fs/javascript.js",
+         "+fs/javascript_load.js -> fs/javascript_load.js",
+         "+fs/overview.htm -> fs/overview.htm",
+         "+fs/perror.htm -> fs/perror.htm",
+         "+fs/styles.css -> fs/styles.css",
+         "+fs/ti.jpg -> fs/ti.jpg",
+         "+fs/tm4c.jpg -> fs/tm4c.jpg",
+         "+io.c -> io.c",
+         "+io.h -> io.h",
+         "+io_fs.c -> io_fs.c",
+         "+io_fsdata.h -> io_fsdata.h",
+         "+lwipopts.h -> lwipopts.h",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../third_party/lwip-1.4.1/apps/httpserver_raw/httpd.c -> third_party/lwip-1.4.1/apps/httpserver_raw/httpd.c",
+         "+../../../../utils/locator.c -> utils/locator.c",
+         "+../../../../utils/lwiplib.c -> utils/lwiplib.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ]
+   }
+]

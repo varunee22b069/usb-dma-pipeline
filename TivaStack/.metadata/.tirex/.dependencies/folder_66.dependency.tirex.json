@@ -1,0 +1,22 @@
+[
+   {
+      "files" : [
+         "+fontview.c -> fontview.c",
+         "+fontview_ccs.cmd -> fontview_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c123gxl-boostxl-kentec-s1/drivers/Kentec320x240x16_ssd2119_spi.c -> drivers/Kentec320x240x16_ssd2119_spi.c",
+         "+../../../../examples/boards/ek-tm4c123gxl-boostxl-kentec-s1/drivers/touch.c -> drivers/touch.c",
+         "+../../../../third_party/fonts/ofl/fonts/fontcjktest20pt.c -> third_party/fonts/ofl/fonts/fontcjktest20pt.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "name" : "na",
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "packages" : []
+   }
+]

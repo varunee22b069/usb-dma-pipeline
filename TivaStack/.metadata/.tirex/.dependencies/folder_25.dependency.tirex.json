@@ -1,0 +1,42 @@
+[
+   {
+      "packages" : [],
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "default" : "na",
+      "files" : [
+         "+enet_fs.c -> enet_fs.c",
+         "+enet_fs.h -> enet_fs.h",
+         "+enet_fsdata.h -> enet_fsdata.h",
+         "+enet_lwip.c -> enet_lwip.c",
+         "+enet_lwip_ccs.cmd -> enet_lwip_ccs.cmd",
+         "+fs/404.htm -> fs/404.htm",
+         "+fs/about.htm -> fs/about.htm",
+         "+fs/block.htm -> fs/block.htm",
+         "+fs/block.jpg -> fs/block.jpg",
+         "+fs/dk-tm4c129x.jpg -> fs/dk-tm4c129x.jpg",
+         "+fs/favicon.ico -> fs/favicon.ico",
+         "+fs/index.htm -> fs/index.htm",
+         "+fs/javascript.js -> fs/javascript.js",
+         "+fs/overview.htm -> fs/overview.htm",
+         "+fs/styles.css -> fs/styles.css",
+         "+fs/ti.jpg -> fs/ti.jpg",
+         "+fs/tm4c.jpg -> fs/tm4c.jpg",
+         "+lwipopts.h -> lwipopts.h",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../third_party/fatfs/port/mmc-dk-tm4c129x.c -> third_party/fatfs/port/mmc-dk-tm4c129x.c",
+         "+../../../../third_party/fatfs/src/ff.c -> third_party/fatfs/src/ff.c",
+         "+../../../../third_party/lwip-1.4.1/apps/httpserver_raw/httpd.c -> third_party/lwip-1.4.1/apps/httpserver_raw/httpd.c",
+         "+../../../../utils/locator.c -> utils/locator.c",
+         "+../../../../utils/lwiplib.c -> utils/lwiplib.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "name" : "na"
+   }
+]

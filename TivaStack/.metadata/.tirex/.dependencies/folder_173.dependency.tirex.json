@@ -1,0 +1,23 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+scribble.c -> scribble.c",
+         "+scribble_ccs.cmd -> scribble_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c1294xl-boostxl-kentec-s1/drivers/Kentec320x240x16_ssd2119_spi.c -> drivers/Kentec320x240x16_ssd2119_spi.c",
+         "+../../../../examples/boards/ek-tm4c1294xl-boostxl-kentec-s1/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/ek-tm4c1294xl-boostxl-kentec-s1/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../examples/boards/ek-tm4c1294xl-boostxl-kentec-s1/drivers/touch.c -> drivers/touch.c",
+         "+../../../../utils/ringbuf.c -> utils/ringbuf.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      }
+   }
+]

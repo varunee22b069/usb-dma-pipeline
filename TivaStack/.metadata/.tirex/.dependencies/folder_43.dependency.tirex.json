@@ -1,0 +1,23 @@
+[
+   {
+      "packages" : [],
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "default" : "na",
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+synth.c -> synth.c",
+         "+synth_ccs.cmd -> synth_ccs.cmd",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/sound.c -> drivers/sound.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/touch.c -> drivers/touch.c",
+         "+../../../../utils/sine.c -> utils/sine.c"
+      ],
+      "name" : "na"
+   }
+]

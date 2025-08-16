@@ -1,0 +1,18 @@
+[
+   {
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "name" : "na",
+      "files" : [
+         "+hibernate.c -> hibernate.c",
+         "+hibernate_ccs.cmd -> hibernate_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ]
+   }
+]

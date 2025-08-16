@@ -1,0 +1,22 @@
+[
+   {
+      "files" : [
+         "+humidity_sht21.c -> humidity_sht21.c",
+         "+humidity_sht21_ccs.cmd -> humidity_sht21_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/dk-tm4c129x-boostxl-senshub/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x-boostxl-senshub/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x-boostxl-senshub/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "name" : "na",
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      },
+      "default" : "na",
+      "packages" : []
+   }
+]

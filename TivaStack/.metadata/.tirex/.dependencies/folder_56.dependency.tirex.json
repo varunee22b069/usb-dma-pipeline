@@ -1,0 +1,27 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+usb_host_audio.c -> usb_host_audio.c",
+         "+usb_host_audio_ccs.cmd -> usb_host_audio_ccs.cmd",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/buttons.c -> drivers/buttons.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/touch.c -> drivers/touch.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/usb_sound.c -> drivers/usb_sound.c",
+         "+../../../../third_party/fatfs/port/mmc-dk-tm4c129x.c -> third_party/fatfs/port/mmc-dk-tm4c129x.c",
+         "+../../../../third_party/fatfs/src/ff.c -> third_party/fatfs/src/ff.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c",
+         "+../../../../utils/wavfile.c -> utils/wavfile.c"
+      ],
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      }
+   }
+]

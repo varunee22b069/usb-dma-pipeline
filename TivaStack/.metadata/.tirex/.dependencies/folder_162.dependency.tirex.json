@@ -1,0 +1,19 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+simple_fs.c -> simple_fs.c",
+         "+simple_fs.h -> simple_fs.h",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+usb_stick_update.c -> usb_stick_update.c",
+         "+usb_stick_update_ccs.cmd -> usb_stick_update_ccs.cmd"
+      ],
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "packages" : []
+   }
+]

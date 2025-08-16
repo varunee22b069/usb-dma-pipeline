@@ -1,0 +1,27 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+clock-arch.h -> clock-arch.h",
+         "+enet_uip.c -> enet_uip.c",
+         "+enet_uip_ccs.cmd -> enet_uip_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+uip-conf.h -> uip-conf.h",
+         "+../../../../examples/boards/ek-tm4c129exl/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../third_party/uip-1.0/apps/dhcpc/dhcpc.c -> third_party/uip-1.0/apps/dhcpc/dhcpc.c",
+         "+../../../../third_party/uip-1.0/apps/httpd/httpd.c -> third_party/uip-1.0/apps/httpd/httpd.c",
+         "+../../../../third_party/uip-1.0/uip/uip.c -> third_party/uip-1.0/uip/uip.c",
+         "+../../../../third_party/uip-1.0/uip/uip_arp.c -> third_party/uip-1.0/uip/uip_arp.c",
+         "+../../../../third_party/uip-1.0/uip/uip_timer.c -> third_party/uip-1.0/uip/uip_timer.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      }
+   }
+]

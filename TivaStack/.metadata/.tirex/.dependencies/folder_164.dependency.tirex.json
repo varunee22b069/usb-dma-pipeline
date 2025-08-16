@@ -1,0 +1,20 @@
+[
+   {
+      "files" : [
+         "+compdcm_mpu9150.c -> compdcm_mpu9150.c",
+         "+compdcm_mpu9150_ccs.cmd -> compdcm_mpu9150_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c1294xl-boostxl-senshub/drivers/buttons.c -> drivers/buttons.c",
+         "+../../../../examples/boards/ek-tm4c1294xl-boostxl-senshub/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na",
+      "packages" : [],
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      },
+      "default" : "na"
+   }
+]

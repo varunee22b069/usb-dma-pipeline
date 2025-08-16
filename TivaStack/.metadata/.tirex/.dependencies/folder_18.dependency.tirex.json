@@ -1,0 +1,23 @@
+[
+   {
+      "packages" : [],
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "default" : "na",
+      "name" : "na",
+      "files" : [
+         "+boot_demo_usb.c -> boot_demo_usb.c",
+         "+boot_demo_usb_ccs.cmd -> boot_demo_usb_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+usb_hiddfu_structs.c -> usb_hiddfu_structs.c",
+         "+usb_hiddfu_structs.h -> usb_hiddfu_structs.h",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../examples/boards/dk-tm4c129x/drivers/touch.c -> drivers/touch.c"
+      ]
+   }
+]

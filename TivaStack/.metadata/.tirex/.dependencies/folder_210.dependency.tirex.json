@@ -1,0 +1,22 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+usb_dev_cserial.c -> usb_dev_cserial.c",
+         "+usb_dev_cserial_ccs.cmd -> usb_dev_cserial_ccs.cmd",
+         "+usb_structs.c -> usb_structs.c",
+         "+usb_structs.h -> usb_structs.h",
+         "+../../../../examples/boards/ek-tm4c1294xl/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/cmdline.c -> utils/cmdline.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "default" : "na",
+      "packages" : []
+   }
+]

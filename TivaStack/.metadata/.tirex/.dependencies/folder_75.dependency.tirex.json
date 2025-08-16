@@ -1,0 +1,19 @@
+[
+   {
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "packages" : [],
+      "name" : "na",
+      "files" : [
+         "+pressure_bmp180.c -> pressure_bmp180.c",
+         "+pressure_bmp180_ccs.cmd -> pressure_bmp180_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c123gxl-boostxl-senshub/drivers/rgb.c -> drivers/rgb.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ]
+   }
+]

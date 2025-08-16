@@ -1,0 +1,22 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+light_isl29023.c -> light_isl29023.c",
+         "+light_isl29023_ccs.cmd -> light_isl29023_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/dk-tm4c129x-boostxl-senshub/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x-boostxl-senshub/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x-boostxl-senshub/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "compiler" : {
+         "specified" : "na",
+         "effective" : "na",
+         "location" : "na"
+      },
+      "default" : "na",
+      "packages" : []
+   }
+]

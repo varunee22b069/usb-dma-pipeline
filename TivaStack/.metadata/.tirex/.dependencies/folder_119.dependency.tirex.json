@@ -1,0 +1,18 @@
+[
+   {
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "default" : "na",
+      "packages" : [],
+      "name" : "na",
+      "files" : [
+         "+boot_demo_uart_rom.c -> boot_demo_uart_rom.c",
+         "+boot_demo_uart_rom_ccs.cmd -> boot_demo_uart_rom_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../examples/boards/ek-tm4c129exl/drivers/buttons.c -> drivers/buttons.c"
+      ]
+   }
+]

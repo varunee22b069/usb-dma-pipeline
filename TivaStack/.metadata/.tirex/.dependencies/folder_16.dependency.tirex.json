@@ -1,0 +1,17 @@
+[
+   {
+      "name" : "na",
+      "files" : [
+         "+blinky.c -> blinky.c",
+         "+blinky_ccs.cmd -> blinky_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c"
+      ],
+      "compiler" : {
+         "location" : "na",
+         "effective" : "na",
+         "specified" : "na"
+      },
+      "default" : "na",
+      "packages" : []
+   }
+]

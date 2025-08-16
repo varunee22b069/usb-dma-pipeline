@@ -1,0 +1,18 @@
+[
+   {
+      "default" : "na",
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      },
+      "packages" : [],
+      "files" : [
+         "+ssi_quad_mode.c -> ssi_quad_mode.c",
+         "+ssi_quad_mode_ccs.cmd -> ssi_quad_mode_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na"
+   }
+]

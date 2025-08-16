@@ -1,0 +1,18 @@
+[
+   {
+      "default" : "na",
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      },
+      "packages" : [],
+      "files" : [
+         "+adc_udma_pingpong.c -> adc_udma_pingpong.c",
+         "+adc_udma_pingpong_ccs.cmd -> adc_udma_pingpong_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na"
+   }
+]

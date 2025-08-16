@@ -1,0 +1,18 @@
+[
+   {
+      "packages" : [],
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "files" : [
+         "+pwm_dead_band.c -> pwm_dead_band.c",
+         "+pwm_dead_band_ccs.cmd -> pwm_dead_band_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na"
+   }
+]

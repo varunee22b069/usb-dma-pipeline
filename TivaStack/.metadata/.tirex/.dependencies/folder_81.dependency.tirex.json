@@ -1,0 +1,17 @@
+[
+   {
+      "default" : "na",
+      "compiler" : {
+         "effective" : "na",
+         "location" : "na",
+         "specified" : "na"
+      },
+      "packages" : [],
+      "name" : "na",
+      "files" : [
+         "+boot_demo1.c -> boot_demo1.c",
+         "+boot_demo1_ccs.cmd -> boot_demo1_ccs.cmd",
+         "+startup_ccs.c -> startup_ccs.c"
+      ]
+   }
+]

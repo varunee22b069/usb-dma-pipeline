@@ -1,0 +1,40 @@
+[
+   {
+      "packages" : [],
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "default" : "na",
+      "files" : [
+         "+airmouse.c -> airmouse.c",
+         "+airmouse_ccs.cmd -> airmouse_ccs.cmd",
+         "+events.h -> events.h",
+         "+lprf.c -> lprf.c",
+         "+lprf.h -> lprf.h",
+         "+motion.c -> motion.c",
+         "+motion.h -> motion.h",
+         "+remoti_npi.c -> remoti_npi.c",
+         "+remoti_npi.h -> remoti_npi.h",
+         "+remoti_rti.h -> remoti_rti.h",
+         "+remoti_rtis.c -> remoti_rtis.c",
+         "+remoti_rtis.h -> remoti_rtis.h",
+         "+remoti_uart.c -> remoti_uart.c",
+         "+remoti_uart.h -> remoti_uart.h",
+         "+remoti_zid.h -> remoti_zid.h",
+         "+startup_ccs.c -> startup_ccs.c",
+         "+usb_dev_comp_hid.c -> usb_dev_comp_hid.c",
+         "+usb_structs.c -> usb_structs.c",
+         "+usb_structs.h -> usb_structs.h",
+         "+../../../../examples/boards/dk-tm4c129x-boostxl-senshub/drivers/buttons.c -> drivers/buttons.c",
+         "+../../../../examples/boards/dk-tm4c129x-boostxl-senshub/drivers/frame.c -> drivers/frame.c",
+         "+../../../../examples/boards/dk-tm4c129x-boostxl-senshub/drivers/kentec320x240x16_ssd2119.c -> drivers/kentec320x240x16_ssd2119.c",
+         "+../../../../examples/boards/dk-tm4c129x-boostxl-senshub/drivers/pinout.c -> drivers/pinout.c",
+         "+../../../../utils/ringbuf.c -> utils/ringbuf.c",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c",
+         "+../../../../utils/ustdlib.c -> utils/ustdlib.c"
+      ],
+      "name" : "na"
+   }
+]

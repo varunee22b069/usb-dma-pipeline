@@ -1,0 +1,18 @@
+[
+   {
+      "default" : "na",
+      "compiler" : {
+         "specified" : "na",
+         "location" : "na",
+         "effective" : "na"
+      },
+      "packages" : [],
+      "files" : [
+         "+startup_ccs.c -> startup_ccs.c",
+         "+timer_edge_capture.c -> timer_edge_capture.c",
+         "+timer_edge_capture_ccs.cmd -> timer_edge_capture_ccs.cmd",
+         "+../../../../utils/uartstdio.c -> utils/uartstdio.c"
+      ],
+      "name" : "na"
+   }
+]
