@@ -173,7 +173,6 @@ int main(void){
     libusb_context *ctx = NULL;
     libusb_device **list;
     if (libusb_init(&ctx) < 0) { fprintf(stderr, "libusb init failed\n"); return 1; } 
-    ssize_t cnt = libusb_get_device_list(ctx,&list);
     libusb_device_handle *dev = libusb_open_device_with_vid_pid(ctx,VENDOR_ID,PRODUCT_ID);
     if(!dev){
         fprintf(stderr,"Device not found");
@@ -264,6 +263,5 @@ int main(void){
     compressor_thread.join();
     libusb_release_interface(dev,0);
     libusb_close(dev);
-    libusb_free_device_list(list, 1);
     libusb_exit(ctx);
 }
