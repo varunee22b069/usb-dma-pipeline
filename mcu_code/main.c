@@ -41,9 +41,6 @@ uint32_t g_ui32UARTRxErrors = 0;
 #define DEBUG_PRINT while(0) ((int (*)(char *, ...))0)
 #endif
 
-#define COMMAND_PACKET_RECEIVED 0x00000001
-#define COMMAND_STATUS_UPDATE   0x00000002
-volatile uint32_t g_ui32Flags = 0;
 static volatile bool g_bUSBConfigured = false;
 
 #ifdef DEBUG
@@ -58,7 +55,7 @@ uint8_t pCtlTable[1024] __attribute__ ((aligned(1024)));
 uint16_t ADCbuffer1[ADC_SAMPLE_BUF_SIZE];
 uint16_t ADCbuffer2[ADC_SAMPLE_BUF_SIZE];
 enum state{EMPTY,FILLING,FULL};
-enum state bufferstatus[2];
+volatile enum state bufferstatus[2];
 static uint32_t g_ui32DMAErrCount = 0u;
 
 void
