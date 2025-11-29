@@ -19,7 +19,7 @@
 
 using namespace std;
 #define VENDOR_ID   0x1CBE   // TI VID
-#define PRODUCT_ID  0x0003   // Your BULK PID
+#define PRODUCT_ID  0x0003   // BULK PID
 #define BULK_EP_IN  0x81     // Endpoint address (IN)
 #define SAMPLES_PER_PACKET 32
 #define PACKET_SIZE    64      // Endpoint max packet size (bytes)
